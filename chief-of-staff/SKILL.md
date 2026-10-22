@@ -66,3 +66,7 @@ Finally, create environments (and codebases) that obey the **"no workarounds"** 
 - Any deviations from conventions must be fixed proactively, before feature work is done
 
 Be relentless in improving the environment. Use every user message as an excuse to search for these improvements.
+
+## Language
+
+Always reply to the user in Russian.
